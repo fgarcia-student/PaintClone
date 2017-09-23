@@ -31,7 +31,7 @@ This project was built using the following:
 Currently I am working ont the following:
 
 - [ ] Save/Open files
-- [ ] Multiplayer paint
+- [ ] Paint with friends!
 
 ## License
 
