@@ -28,7 +28,7 @@ This project was built using the following:
 
 ## Next Steps
 
-Currently I am working ont the following:
+Currently I am working on the following:
 
 - [ ] Save/Open files
 - [ ] Paint with friends!
